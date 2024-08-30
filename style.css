@@ -1,0 +1,67 @@
+h1{
+   margin:0;
+   font-family: initial;
+
+}
+body {
+   font-family: Impact;
+   margin:0;
+
+}
+.button{
+   width: 200px;
+   height: 100px;
+   display: flex;
+   border-radius: 5px;
+   background-color: #EAB5C4;
+   justify-content: center;
+   align-items: center;
+}
+
+.first{
+   display: flex;
+   justify-content: space-between;
+}
+a{
+   text-decoration: none;
+   list-style: none;
+}
+footer{
+   font-size:x-large;
+   color :red;
+   background-color: #F1A9A9;
+}
+header{
+   background-color: #F5A597;
+}
+p1{
+   background-color: #F6CDC5;
+   font-size: 30px;
+}
+h2{
+   font-size: 60px;
+}
+header a{
+   text-decoration: white;
+   color: white;
+   margin:0 10px;
+}
+.post{
+   padding: 10px 5%;
+   align-items: center;
+   justify-content: space-around;
+   background-color: #F1A9A9;
+}
+.razryv{
+   height:100px;
+}
+.razryv1{
+   height:40px;
+}
+.post1{
+   padding: 10px 5%;
+   text-align: center;
+   background-color: #F1A9A9;
+}
+
+
